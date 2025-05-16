@@ -1,2 +1,3 @@
 # COBOL_GREATER_THAN_PYTHON3
+Toca programar en python, pero todo el mundo sabe que COBOL es mejor...
 Repositorio de Javier Ernesto Moran Rosales para el curso de fundamentos de programación
