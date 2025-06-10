@@ -8,7 +8,7 @@ clock = pygame.time.Clock()
 
 
 tabla = []
-with open("Clase8\\genesis.txt", "r", newline="") as file:
+with open("genesis.txt", "r", newline="") as file:
     for line in file:
         tabla.append([c for c in line.strip()])
 
